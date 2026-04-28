@@ -1,4 +1,4 @@
-Assignment 3 – Sorting and Searching Algorithm Analysis System
+<img width="200" height="191" alt="image" src="https://github.com/user-attachments/assets/03a45cea-ca0d-426a-af3c-a0b636f92ec8" />Assignment 3 – Sorting and Searching Algorithm Analysis System
 
 This project implements and analyzes fundamental sorting and searching algorithms in Java. The purpose is to compare their performance using execution time measurements and to evaluate their behavior on different input sizes and data types.
 
@@ -62,16 +62,16 @@ Screenshots
 Screenshots demonstrating program execution and results should be placed in the following directory:
 
 
-docs/img.png
-docs/img_1.png
-docs/img_2.png
-docs/img_3.png
-docs/img_4.png
-docs/img_5.png
-docs/img_6.png
-docs/img_7.png
-docs/img_8.png
-docs/img_9.png
+![Run 1](docs/img.png)
+![Run 2](docs/img_1.png)
+![Run 3](docs/img_2.png)
+![Run 4](docs/img_3.png)
+![Run 5](docs/img_4.png)
+![Run 6](docs/img_5.png)
+![Run 7](docs/img_6.png)
+![Run 8](docs/img_7.png)
+![Run 9](docs/img_8.png)
+![Run 10](docs/img_9.png)
 
 This project provided practical insight into how algorithm complexity affects performance. It became clear that simple algorithms like Bubble Sort are not suitable for large datasets, while more advanced algorithms such as Merge Sort provide significantly better efficiency.
 
