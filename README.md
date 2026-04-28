@@ -62,6 +62,16 @@ Screenshots
 Screenshots demonstrating program execution and results should be placed in the following directory:
 
 
+docs/img.png
+docs/img_1.png
+docs/img_2.png
+docs/img_3.png
+docs/img_4.png
+docs/img_5.png
+docs/img_6.png
+docs/img_7.png
+docs/img_8.png
+docs/img_9.png
 
 This project provided practical insight into how algorithm complexity affects performance. It became clear that simple algorithms like Bubble Sort are not suitable for large datasets, while more advanced algorithms such as Merge Sort provide significantly better efficiency.
 
