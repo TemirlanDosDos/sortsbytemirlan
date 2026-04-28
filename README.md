@@ -1,4 +1,4 @@
-<img width="200" height="191" alt="image" src="https://github.com/user-attachments/assets/03a45cea-ca0d-426a-af3c-a0b636f92ec8" />Assignment 3 – Sorting and Searching Algorithm Analysis System
+Assignment 3 – Sorting and Searching Algorithm Analysis System
 
 This project implements and analyzes fundamental sorting and searching algorithms in Java. The purpose is to compare their performance using execution time measurements and to evaluate their behavior on different input sizes and data types.
 
